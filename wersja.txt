@@ -1,0 +1,2 @@
+wersja= 1.0
+linkpliku = https://cdn.discordapp.com/attachments/1029829061993840690/1051613396354732062/GlowClicker_Beta.ahk
